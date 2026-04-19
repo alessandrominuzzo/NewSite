@@ -1,1 +1,27 @@
+html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+<head>
+  <style>
+body {
+  background-image: url('sphere.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+<body>
+  <h1>Alessandro Minuzzo, Ph. D., > Publications </h1>
+ <p> My most recent publications:</p>
+  <li> Complex Structures on Product Manifolds (with L. Biliotti): Complex Manifolds, Vol. 12 (Issue 1), pp. 20250015, 2025:
+<a href="https://doi.org/10.1515/coma-2025-0015"> link </a> ;</li>
+  <li> Reduction principles for proper actions (with L. Biliotti and V. G. May Custodio) arXiv, math.DG:
+<a href="https://arxiv.org/abs/2509.19915"> link </a> ;</li>
+  <li> On the rational hyperbolicity problem (with M. Radeschi and R. Mendes) arXiv, math.DG:
+<a href="arxiv.org/abs/2512.23101"> link </a> ;</li>
+<body>
+  
 
+  <html>
